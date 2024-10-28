@@ -4,6 +4,12 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+
+    background: url("https://img.freepik.com/free-vector/realistic-neon-lights-background_23-2148907367.jpg");
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+
     background-color: #f0f0f0; /* Optional: sets a background color */
 }
 
